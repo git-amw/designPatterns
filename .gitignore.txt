@@ -1,0 +1,79 @@
+# === General ===
+*.class
+*.log
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.iml
+*.iws
+*.ipr
+.DS_Store
+Thumbs.db
+
+# === OS-generated ===
+ehthumbs.db
+Icon?
+Desktop.ini
+$RECYCLE.BIN/
+*.swp
+*~
+
+# === Eclipse ===
+.project
+.classpath
+.settings/
+bin/
+tmp/
+target/
+
+# === IntelliJ IDEA ===
+.idea/
+*.iml
+out/
+*.ipr
+*.iws
+
+# === NetBeans ===
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# === Maven ===
+target/
+
+# === Gradle ===
+.gradle/
+build/
+
+# === VS Code ===
+.vscode/
+
+# === Logs ===
+*.log
+
+# === Coverage ===
+coverage/
+*.exec
+jacoco*.exec
+
+# === Test reports ===
+test-output/
+surefire-reports/
+
+# === Environment files ===
+.env
+.env.*
+
+# === Temporary files ===
+*.tmp
+*.bak
+*.old
+
+# === Compiled Libraries ===
+lib/*.jar
+`
